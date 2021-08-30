@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikeDev14
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning REACT, React-Native, Flutter and Python
+- 🌱 I’m currently learning Java EE, JS, REACT, React-Native, Flutter and Python
 - 💞️ I’m looking to collaborate on Biosignals Processing, Artificial Vision, Artificial Neural Networks and Machine Learning
 - 📫 How to reach me https://www.researchgate.net/profile/Miguel-Gomez-Diaz
 
